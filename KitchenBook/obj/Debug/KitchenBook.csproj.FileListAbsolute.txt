@@ -1,0 +1,497 @@
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe.config
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\KitchenBook.pdb
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.csprojAssemblyReference.cache
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\App.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.cache
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.lref
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MainWindow.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.g.resources
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.Properties.Resources.resources
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.GenerateResource.cache
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.exe
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.pdb
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\App.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\Theme\MainWindowTheme.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.baml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Buffers.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Memory.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Buffers.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Memory.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CopyComplete
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\Theme\CabinetViewTheme.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.g.cs
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.baml
+D:\VisualStudio\CourseProject\KitchenBook\obj\Debug\Theme\RecipeViewTheme.baml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\EntityFramework.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\EntityFramework.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\ru\EntityFramework.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject\KitchenBook\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe.config
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.pdb
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Buffers.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Memory.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Buffers.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Memory.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\App.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_Content.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.cache
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.lref
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\App.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\Theme\CabinetViewTheme.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\Theme\MainWindowTheme.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\Theme\RecipeViewTheme.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.g.resources
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.Properties.Resources.resources
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.GenerateResource.cache
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CoreCompileInputs.cache
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CopyComplete
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.exe
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.pdb
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MainWindow.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MainWindow.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\Theme\EnterViewTheme.baml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.dll
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.xml
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csprojAssemblyReference.cache
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.g.cs
+C:\Users\Никитоксик\Downloads\Telegram Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe.config
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\KitchenBook.pdb
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\EntityFramework.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Buffers.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Memory.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\EntityFramework.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Buffers.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Memory.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.xml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.csprojAssemblyReference.cache
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\App.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook_Content.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.cache
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.lref
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\App.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MainWindow.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\Theme\CabinetViewTheme.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\Theme\EnterViewTheme.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\Theme\MainWindowTheme.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\Theme\RecipeViewTheme.baml
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.g.resources
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.Properties.Resources.resources
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.GenerateResource.cache
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CopyComplete
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.exe
+D:\VisualStudio\CourseProject (with Admin)\CourseProject\KitchenBook\obj\Debug\KitchenBook.pdb
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe.config
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.exe
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\KitchenBook.pdb
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Experimental.System.Messaging.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_Content.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.cache
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook_MarkupCompile.lref
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\App.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\AdminView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\CabinetView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\EnterView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\HomeView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\ItemsView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\RecipeView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\MVVM\Views\SearchView.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\Theme\CabinetViewTheme.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\Theme\EnterViewTheme.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\Theme\MainWindowTheme.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\Theme\RecipeViewTheme.baml
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.g.resources
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.Properties.Resources.resources
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.csproj.CopyComplete
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.exe
+C:\Users\Admin\Desktop\CourseProject\KitchenBook\obj\Debug\KitchenBook.pdb

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище KitchenBookModelContainer" CdmEntityContainer="KitchenBookEntities">
+    <EntitySetMapping Name="Recipe">
+      <EntityTypeMapping TypeName="KitchenBookModel.Recipe">
+        <MappingFragment StoreEntitySet="Recipe">
+          <ScalarProperty Name="ID_Ing" ColumnName="ID_Ing" />
+          <ScalarProperty Name="ID_recipe" ColumnName="ID_recipe" />
+          <ScalarProperty Name="Ingredient" ColumnName="Ingredient" />
+          <ScalarProperty Name="MassIngredient" ColumnName="MassIngredient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recipes">
+      <EntityTypeMapping TypeName="KitchenBookModel.Recipes">
+        <MappingFragment StoreEntitySet="Recipes">
+          <ScalarProperty Name="Popularity" ColumnName="Popularity" />
+          <ScalarProperty Name="ID_recipe" ColumnName="ID_recipe" />
+          <ScalarProperty Name="NameRecipe" ColumnName="NameRecipe" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="ID_author" ColumnName="ID_author" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SecretInfo">
+      <EntityTypeMapping TypeName="KitchenBookModel.SecretInfo">
+        <MappingFragment StoreEntitySet="SecretInfo">
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="KitchenBookModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surame" ColumnName="Surame" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Admin" ColumnName="Admin" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsersRecipes">
+      <EntityTypeMapping TypeName="KitchenBookModel.UsersRecipes">
+        <MappingFragment StoreEntitySet="UsersRecipes">
+          <ScalarProperty Name="ID_Like" ColumnName="ID_Like" />
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="ID_recipe" ColumnName="ID_recipe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

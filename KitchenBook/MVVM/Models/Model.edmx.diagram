@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9a6d5db7b6c742639a71e9bd9811c9a8" Name="Diagram1">
+        <EntityTypeShape EntityType="KitchenBookModel.Recipe" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitchenBookModel.Recipes" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitchenBookModel.SecretInfo" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitchenBookModel.Users" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitchenBookModel.UsersRecipes" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <AssociationConnector Association="KitchenBookModel.FK__Recipe__ID_recip__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="KitchenBookModel.FK__Recipes__ID_auth__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="KitchenBookModel.FK__UsersReci__ID_re__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="KitchenBookModel.FK__SecretInf__ID_Us__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="KitchenBookModel.FK__UsersReci__ID_Us__2B3F6F97" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

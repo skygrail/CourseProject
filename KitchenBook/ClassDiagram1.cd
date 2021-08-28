@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KitchenBook.MVVM.Models.KitchenBookEntities" Collapsed="true">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCBAAACAAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\Model.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.Recipe" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAACAAAQA=</HashCode>
+      <FileName>MVVM\Models\Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.Recipes" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBCBEAAAgAAAgAAAAAAAAAAAAABAAAAAAACAACAA=</HashCode>
+      <FileName>MVVM\Models\Recipes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.SecretInfo" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAQCAAAAAA=</HashCode>
+      <FileName>MVVM\Models\SecretInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.Users" Collapsed="true">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACCAAAAAAAAAIQQAAAEAABAAAAAACAAACAA=</HashCode>
+      <FileName>MVVM\Models\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.UsersRecipes" Collapsed="true">
+    <Position X="18" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAIAAAAAAAAAgAAAAACCAAAAA=</HashCode>
+      <FileName>MVVM\Models\UsersRecipes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.RecipesRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAAAIAACAQAEAAgAAAAAAAAAUAAkAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\RecipesRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.Ingredient" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\RecipeToAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.RecipeToAdd" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAgAAAAgAAAgIAAAAAAAEAAABBAAAAAYAAAACAA=</HashCode>
+      <FileName>MVVM\Models\RecipeToAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.UnitOfWork" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAKAAACAQAAAAAAAAIAAAAAAAAAAAQAAAAIAAAAA=</HashCode>
+      <FileName>MVVM\Models\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.UserFile" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQgAAAEAIQAEAAEABAKAAAQCgAAGQg=</HashCode>
+      <FileName>MVVM\Models\UserFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.UserRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAQAEBAEAAAAAAACAEAEkAAAAAgABCAAAI=</HashCode>
+      <FileName>MVVM\Models\UserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Models.ValidatableModel" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAADAAAAhAAAAAAAAgAAAAAAIAAQAAAABIAA=</HashCode>
+      <FileName>MVVM\Models\ValidatableModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.AdminViewVM" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAEgAAEBAAAAAAAAAQAAAAAAABBAAAAQAQA=</HashCode>
+      <FileName>MVVM\ViewModels\AdminViewVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.BoolToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\BoolToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.BoolToVisibilityUser" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\BoolToVisibilityUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.CabinetViewModel" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABgAQAFAMgQAFDCEIAgCAAEAAACAAiAApIAAIAiQA=</HashCode>
+      <FileName>MVVM\ViewModels\CabinetViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.EnterViewModel" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAoAAgAAAIIAAAAAAAAAAACAAIQAggIEAA=</HashCode>
+      <FileName>MVVM\ViewModels\EnterViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.HomeViewModel" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgAAAAQAAAAGAAAAAAAAAAAQAAgAAAAIA=</HashCode>
+      <FileName>MVVM\ViewModels\HomeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.Image" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.ItemsViewModel" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEgAAABCAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\ItemsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.MainViewModel" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAACEABggAAAAAEAAaAAAAEAgGCgACAAIQEgAQA=</HashCode>
+      <FileName>MVVM\ViewModels\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.MessageBoxService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\MessageBoxService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.PasswordBehavior" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAFAAAAAAAIAAAAAAAAAAAABACAAAAAAAAAAQ=</HashCode>
+      <FileName>MVVM\ViewModels\PasswordBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.RecipeViewModel" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAKAEEgCABAgAAAAAAAAAAAAAAMAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\RecipeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.SearchViewModel" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAQAUggAAhCIAAAAAAQAAABAEAAABAAEAAQAA=</HashCode>
+      <FileName>MVVM\ViewModels\SearchViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenBook.MVVM.ViewModels.Base.ViewModel" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\Base\ViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.AdminView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\AdminView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.CabinetView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\CabinetView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.EnterView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\EnterView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.HomeView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\HomeView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.ItemsView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\ItemsView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.RecipeView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\RecipeView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.MVVM.Views.SearchView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\SearchView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KitchenBook.Commands.RelayCommand" Collapsed="true">
+    <Position X="18" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="KitchenBook.MVVM.Models.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="8.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAEAAAAAAAAAAAAEAAkAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KitchenBook.MVVM.ViewModels.IMessageBoxService" Collapsed="true">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\ViewModels\MessageBoxService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

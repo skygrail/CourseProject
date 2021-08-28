@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KitchenBookModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Recipe">
+    <Key>
+      <PropertyRef Name="ID_Ing" />
+    </Key>
+    <Property Name="ID_Ing" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_recipe" Type="Int32" Nullable="false" />
+    <Property Name="Ingredient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MassIngredient" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Recipes" Relationship="Self.FK__Recipe__ID_recip__2F10007B" FromRole="Recipe" ToRole="Recipes" />
+  </EntityType>
+  <EntityType Name="Recipes">
+    <Key>
+      <PropertyRef Name="ID_recipe" />
+    </Key>
+    <Property Name="ID_recipe" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameRecipe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Category" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_author" Type="Int32" Nullable="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="Recipe" Relationship="Self.FK__Recipe__ID_recip__2F10007B" FromRole="Recipes" ToRole="Recipe" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__Recipes__ID_auth__286302EC" FromRole="Recipes" ToRole="Users" />
+    <NavigationProperty Name="UsersRecipes" Relationship="Self.FK__UsersReci__ID_re__2C3393D0" FromRole="Recipes" ToRole="UsersRecipes" />
+    <Property Name="Popularity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SecretInfo">
+    <Key>
+      <PropertyRef Name="ID_User" />
+    </Key>
+    <Property Name="ID_User" Type="Int32" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__SecretInf__ID_Us__25869641" FromRole="SecretInfo" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID_User" />
+    </Key>
+    <Property Name="ID_User" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surame" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Admin" Type="Boolean" Nullable="false" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="Recipes" Relationship="Self.FK__Recipes__ID_auth__286302EC" FromRole="Users" ToRole="Recipes" />
+    <NavigationProperty Name="SecretInfo" Relationship="Self.FK__SecretInf__ID_Us__25869641" FromRole="Users" ToRole="SecretInfo" />
+    <NavigationProperty Name="UsersRecipes" Relationship="Self.FK__UsersReci__ID_Us__2B3F6F97" FromRole="Users" ToRole="UsersRecipes" />
+    <Property Name="Category" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UsersRecipes">
+    <Key>
+      <PropertyRef Name="ID_Like" />
+    </Key>
+    <Property Name="ID_Like" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_User" Type="Int32" Nullable="false" />
+    <Property Name="ID_recipe" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Recipes" Relationship="Self.FK__UsersReci__ID_re__2C3393D0" FromRole="UsersRecipes" ToRole="Recipes" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__UsersReci__ID_Us__2B3F6F97" FromRole="UsersRecipes" ToRole="Users" />
+  </EntityType>
+  <Association Name="FK__Recipe__ID_recip__2F10007B">
+    <End Role="Recipes" Type="Self.Recipes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Recipe" Type="Self.Recipe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Recipes">
+        <PropertyRef Name="ID_recipe" />
+      </Principal>
+      <Dependent Role="Recipe">
+        <PropertyRef Name="ID_recipe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Recipes__ID_auth__286302EC">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Recipes" Type="Self.Recipes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID_User" />
+      </Principal>
+      <Dependent Role="Recipes">
+        <PropertyRef Name="ID_author" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersReci__ID_re__2C3393D0">
+    <End Role="Recipes" Type="Self.Recipes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="UsersRecipes" Type="Self.UsersRecipes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Recipes">
+        <PropertyRef Name="ID_recipe" />
+      </Principal>
+      <Dependent Role="UsersRecipes">
+        <PropertyRef Name="ID_recipe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SecretInf__ID_Us__25869641">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="SecretInfo" Type="Self.SecretInfo" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID_User" />
+      </Principal>
+      <Dependent Role="SecretInfo">
+        <PropertyRef Name="ID_User" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersReci__ID_Us__2B3F6F97">
+    <End Role="Users" Type="Self.Users" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="UsersRecipes" Type="Self.UsersRecipes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID_User" />
+      </Principal>
+      <Dependent Role="UsersRecipes">
+        <PropertyRef Name="ID_User" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KitchenBookEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Recipe" EntityType="Self.Recipe" />
+    <EntitySet Name="Recipes" EntityType="Self.Recipes" />
+    <EntitySet Name="SecretInfo" EntityType="Self.SecretInfo" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <EntitySet Name="UsersRecipes" EntityType="Self.UsersRecipes" />
+    <AssociationSet Name="FK__Recipe__ID_recip__2F10007B" Association="Self.FK__Recipe__ID_recip__2F10007B">
+      <End Role="Recipes" EntitySet="Recipes" />
+      <End Role="Recipe" EntitySet="Recipe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Recipes__ID_auth__286302EC" Association="Self.FK__Recipes__ID_auth__286302EC">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Recipes" EntitySet="Recipes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersReci__ID_re__2C3393D0" Association="Self.FK__UsersReci__ID_re__2C3393D0">
+      <End Role="Recipes" EntitySet="Recipes" />
+      <End Role="UsersRecipes" EntitySet="UsersRecipes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SecretInf__ID_Us__25869641" Association="Self.FK__SecretInf__ID_Us__25869641">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="SecretInfo" EntitySet="SecretInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersReci__ID_Us__2B3F6F97" Association="Self.FK__UsersReci__ID_Us__2B3F6F97">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UsersRecipes" EntitySet="UsersRecipes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

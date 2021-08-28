@@ -1,0 +1,148 @@
+﻿<UserControl x:Class="KitchenBook.MVVM.Views.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KitchenBook.MVVM.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="700">
+    <StackPanel>
+        <TextBlock Text="Популярное"
+                   Foreground="#FF693A0A"
+                   FontSize="28"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+
+        <StackPanel Orientation="Horizontal"
+                    Margin="0,0,0,10" Width="550" Height="200" HorizontalAlignment="Left" VerticalAlignment="Stretch" Cursor="Hand">
+            <Border Style="{StaticResource ImageBorder}" 
+                    CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#FF6978" Offset="0.0"/>
+                        <GradientStop Color="#FF7D1950" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                
+                <Border.InputBindings>
+                    <MouseBinding MouseAction="LeftClick" 
+                                  Command="{Binding MostPopCommand}">
+                        
+                    </MouseBinding>
+                </Border.InputBindings>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,550,200"/>
+                </Border.Clip>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="300"/>
+                        <ColumnDefinition Width="250"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Width="300"
+                           Height="200"
+                           Source="{Binding Path=MostPop.Image}"
+                           Stretch="UniformToFill"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Stretch" Grid.Column="0"/>
+
+                    <StackPanel Margin="10"
+                                HorizontalAlignment="Left" Grid.Column="1">
+                        <TextBlock FontSize = "20"
+                                   Foreground="#d7ccc8"
+                                   Text="{Binding Path=MostPop.NameRecipe}" 
+                                   TextWrapping="Wrap" TextAlignment="Left"/>
+
+                        <TextBlock FontSize = "16"
+                                   Foreground="#d7ccc8"
+                                   Text="{Binding Path=MostPop.Category}"
+                                   Margin="0,10,0,0" FontFamily="Izax"/>
+                    </StackPanel>
+
+                    
+                </Grid>
+                
+            </Border>
+
+            
+        </StackPanel>
+
+        <StackPanel>
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="Margin" Value="15,0,0,0" />
+                </Style>
+            </StackPanel.Resources>
+            <TextBlock Text="Возможно, Вам будет интересно..."
+                   Foreground="#FF693A0A"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal">
+                <Border Width="200"
+                        Height="150"
+                        Background="#FFB"
+                        CornerRadius="10"
+                        Margin="0,0,20,0" Style="{StaticResource ImageBorder}">
+                    <Image Width="200"
+                           Height="150"
+                           Source="{Binding Path=Interest1.Image}"
+                           Stretch="UniformToFill"
+                           Name="interest1"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Stretch"/>
+                    <Border.InputBindings>
+                        <MouseBinding MouseAction="LeftClick" 
+                                  Command="{Binding InterestCommand}" CommandParameter="{Binding ElementName=interest1, Path=Name}">
+
+                        </MouseBinding>
+                    </Border.InputBindings>
+                    
+                </Border>
+
+                <Border Width="200"
+                        Height="150"
+                        Background="#FFB870"
+                        CornerRadius="10" Margin="0,0,20,0" Style="{StaticResource ImageBorder}">
+                    <Image Width="200"
+                           Height="150"
+                           Source="{Binding Path=Interest2.Image}"
+                           Stretch="UniformToFill"
+                           Name="interest2"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Stretch"/>
+                    <Border.InputBindings>
+                        <MouseBinding MouseAction="LeftClick" 
+                                  Command="{Binding InterestCommand}" CommandParameter="{Binding ElementName=interest2, Path=Name}">
+
+                        </MouseBinding>
+                    </Border.InputBindings>
+                    
+                </Border>
+
+                <Border Width="200"
+                        Height="150"
+                        Background="#8BE"
+                        CornerRadius="10" Style="{StaticResource ImageBorder}">
+                    <Image Width="200"
+                           Height="150"
+                           Source="{Binding Path=Interest3.Image}"
+                           Stretch="UniformToFill"
+                           HorizontalAlignment="Stretch"
+                           Name="interest3"
+                           VerticalAlignment="Stretch"/>
+                    <Border.InputBindings>
+                        <MouseBinding MouseAction="LeftClick" 
+                                  Command="{Binding InterestCommand}" CommandParameter="{Binding ElementName=interest3, Path=Name}">
+
+                        </MouseBinding>
+                    </Border.InputBindings>
+                    
+                </Border>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

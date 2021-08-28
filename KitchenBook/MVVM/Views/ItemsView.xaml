@@ -1,0 +1,127 @@
+﻿<UserControl x:Class="KitchenBook.MVVM.Views.ItemsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ie="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:local="clr-namespace:KitchenBook.MVVM.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="700"
+             Background="#FFD6B289">
+    <Grid>
+        <ListBox Background="#FFD6B289"
+                     ItemsSource="{Binding RecipesAll}" BorderBrush="{x:Null}"
+                     SelectedItem="{Binding SelectedRecipe, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="items" HorizontalContentAlignment="Stretch" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VirtualizingPanel.ScrollUnit="Pixel" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+            <ie:Interaction.Triggers>
+                <ie:EventTrigger EventName="SelectionChanged">
+                    <ie:InvokeCommandAction Command="{Binding SelectionChangedCommand}"/>
+                </ie:EventTrigger>
+            </ie:Interaction.Triggers>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="{x:Type ListBoxItem}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListBoxItem">
+                                <Border BorderThickness="{TemplateBinding Border.BorderThickness}"
+                  Padding="{TemplateBinding Control.Padding}"
+                  BorderBrush="{TemplateBinding Border.BorderBrush}"
+                  Background="{TemplateBinding Panel.Background}"
+                  Name="Bd"
+                  SnapsToDevicePixels="True">
+                                    <ContentPresenter Content="{TemplateBinding ContentControl.Content}"
+                               ContentTemplate="{TemplateBinding ContentControl.ContentTemplate}"
+                               ContentStringFormat="{TemplateBinding ContentControl.ContentStringFormat}"
+                               HorizontalAlignment="{TemplateBinding Control.HorizontalContentAlignment}"
+                               VerticalAlignment="{TemplateBinding Control.VerticalContentAlignment}"
+                               SnapsToDevicePixels="{TemplateBinding UIElement.SnapsToDevicePixels}" />
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <MultiTrigger>
+                                        <MultiTrigger.Conditions>
+                                            <Condition Property="Selector.IsSelectionActive" Value="False"/>
+                                            <Condition Property="Selector.IsSelected" Value="True"/>
+                                        </MultiTrigger.Conditions>
+                                        <Setter Property="Panel.Background" TargetName="Bd" 
+                        Value="Transparent"/>
+                                        <Setter Property="Border.BorderBrush" TargetName="Bd">
+                                            <Setter.Value>
+                                                <SolidColorBrush>#a8896c</SolidColorBrush>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </MultiTrigger>
+                                    <MultiTrigger>
+                                        <MultiTrigger.Conditions>
+                                            <Condition Property="Selector.IsSelectionActive" Value="True"/>
+                                            <Condition Property="Selector.IsSelected" Value="True"/>
+                                        </MultiTrigger.Conditions>
+                                        <Setter Property="Panel.Background" TargetName="Bd" Value="#a8896c"/>
+                                        <Setter Property="Border.BorderBrush" TargetName="Bd">
+                                            <Setter.Value>
+                                                <SolidColorBrush>#a8896c</SolidColorBrush>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </MultiTrigger>
+                                    <Trigger Property="UIElement.IsMouseOver" Value="True">
+                                        <Setter Property="Panel.Background" TargetName="Bd" 
+                       Value="#bf9b7b"/>
+                                        <Setter Property="Border.BorderBrush" TargetName="Bd">
+                                            <Setter.Value>
+                                                <SolidColorBrush>#bf9b7b</SolidColorBrush>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                    <Trigger Property="UIElement.IsEnabled" Value="False">
+                                        <Setter Property="TextElement.Foreground" TargetName="Bd">
+                                            <Setter.Value>
+                                                <DynamicResource ResourceKey="{x:Static SystemColors.GrayTextBrushKey}" />
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Cursor="Hand">
+                        <Border CornerRadius="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                            <Border.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                                    <GradientStop Color="#C2D1E5" Offset="0.0"/>
+                                    <GradientStop Color="#8399AE" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Border.Background>
+
+                            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Grid.Column="0" Width="300" Height="200"
+                                       Stretch="UniformToFill"
+                                           Source="{Binding Path=Image}"
+                                           HorizontalAlignment="Left"
+                                           VerticalAlignment="Bottom"/>
+
+                                <StackPanel Grid.Column="1" Margin="10"
+                                                HorizontalAlignment="Stretch">
+                                    <TextBlock FontSize = "22"
+                                                   Text="{Binding Path=NameRecipe}"  TextWrapping="Wrap"
+                                                  />
+
+                                    <Line X1="0" X2="630" Y1="0" Y2="0" StrokeThickness="2" Stroke="#FF977777"></Line>
+
+                                    <TextBlock FontSize = "16"
+                                                   Text="{Binding Path=Category}"
+                                                   Margin="0,10,0,0" FontFamily="Lato"  Foreground="#FF523F3F"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

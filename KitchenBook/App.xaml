@@ -1,0 +1,47 @@
+﻿<Application x:Class="KitchenBook.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KitchenBook"
+             xmlns:views="clr-namespace:KitchenBook.MVVM.Views"
+             xmlns:viewModels="clr-namespace:KitchenBook.MVVM.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MainWindowTheme.xaml"/>
+                <ResourceDictionary Source="Theme/CabinetViewTheme.xaml"/>
+                <ResourceDictionary Source="Theme/RecipeViewTheme.xaml"/>
+                <ResourceDictionary Source="Theme/EnterViewTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModels:HomeViewModel}">
+                <views:HomeView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModels:ItemsViewModel}">
+                <views:ItemsView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModels:SearchViewModel}">
+                <views:SearchView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModels:CabinetViewModel}">
+                <views:CabinetView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModels:EnterViewModel}">
+                <views:EnterView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModels:RecipeViewModel}">
+                <views:RecipeView/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type viewModels:AdminViewVM}">
+                <views:AdminView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
